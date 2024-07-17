@@ -10,7 +10,7 @@ The program returns a report of the `variables defined`, `functions defined with
 
 ## Project
 
-This will be the base of a new project where a basic compiler for a new programming language will be created.
+This will be the starting point of a new project where a basic compiler for a new programming language will be created.
 
 ### Authors:
 
